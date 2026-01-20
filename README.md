@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yirang Lim</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yirang07@gmail.com</h3>
 <p align="left">
 </p>
 
